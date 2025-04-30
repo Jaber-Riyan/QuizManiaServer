@@ -12,7 +12,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@google/generative-ai": "^0.24.0",
+    "@google/generative-ai": "^0.6.0",
     "add": "^2.0.6",
     "axios": "^1.8.3",
     "bcrypt": "^5.1.1",
@@ -26,6 +26,7 @@
     "mongoose": "^8.12.1",
     "morgan": "^1.10.0",
     "nodemailer": "^6.10.0",
-    "openai": "^4.87.3"
+    "openai": "^4.87.3",
+    "serve-favicon": "^2.5.0"
   }
 }
